@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mainak+Misra;Full-Stack+Software+Engineer+%E2%80%94+Python+%7C+Django+%7C+FastAPI;APIs+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Learning+Kubernetes+%26+AI+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mainak+Misra;Software+Engineer+%E2%80%94+Python+%7C+Django+%7C+FastAPI;APIs+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Learning+Kubernetes+%26+AI+Engineering" alt="Typing SVG" />
 
 **Backend / Full-Stack Software Engineer · 6+ years · Nantes, France 🇫🇷**
 
