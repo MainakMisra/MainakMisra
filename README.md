@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 I'm a **backend-focused software engineer** who designs and ships reliable web services in **Python**. I hold a **Master's in Software Engineering from ISEP Paris** and have been building **SaaS products** since 2019, with a strong focus on **clean architecture** and **real-world problem solving**.
-I care about what happens *after* the code ships: services that are observable, tested, easy to deploy and easy for the next developer to maintain.
+I care about what happens *after* the code ships: services that are observable, tested, easy to deploy and easy to maintain.
 
 
 - 🏗️ Currently a **Backend Engineer at [Logiroad](https://www.logiroad.com/)**, building APIs and database models for road asset management
