@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mainak%20Misra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-misra-69338561/)
 [![Email](https://img.shields.io/badge/Email-mainakmisra1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainakmisra1@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Nantes%2C%20France-1E3A5F?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=MainakMisra&style=for-the-badge&color=3776AB&label=Profile+views)
 
 </div>
 
@@ -15,7 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **backend-focused software engineer** who designs and ships reliable web services in **Python**. I hold a **Master's in Software Engineering from ISEP Paris** and have been building production software since 2019 — across **road-infrastructure SaaS**, **HR-tech with NLP**, **automotive B2B** and **payments (ISO 8583)**.
+I'm a **backend-focused software engineer** who designs and ships reliable web services in **Python**. I hold a **Master's in Software Engineering from ISEP Paris** and have been building **SaaS products** since 2019, with a strong focus on **clean architecture** and **real-world problem solving**.
+I care about what happens *after* the code ships: services that are observable, tested, easy to deploy and easy for the next developer to maintain.
+
 
 - 🏗️ Currently a **Backend Engineer at [Logiroad](https://www.logiroad.com/)**, building APIs and database models for road asset management
 - ⚙️ Day to day: **REST API design, PostgreSQL modelling, CI/CD, Docker, monitoring**
@@ -107,17 +108,6 @@ class MainakMisra:
 
 </details>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MainakMisra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakMisra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=MainakMisra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
